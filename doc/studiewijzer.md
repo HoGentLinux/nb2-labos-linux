@@ -1,19 +1,17 @@
-# Studiewijzer Netwerkbeheer 2 - Linux (2017-2018)
+# Studiewijzer Netwerkbeheer 2 - Linux (2019-2020)
 
 Deze studiewijzer bevat een toelichting van de organisatie van de module Netwerkbeheer 2, onderdeel Linux van de HBO5-opleiding Informatica (optie Netwerkbeheer) voor academiejaar 2017-2018. Het onderdeel Linux wordt gegeven door:
 
-- Frédéric Van Walle <mailto:frederic.vanwalle@avondschool.be> (Eerste semester)
-- Bert Van Vreckem <mailto:bert.vanvreckem@avondschool.be> (Tweede semester)
+- Frédéric Van Walle <mailto:frederic.vanwalle@hogent.be> (Tweede semester)
 
 ## Praktisch
 
 Wat betreft praktische afspraken, regelingen, verwachtingen, enz. in verband met deze cursus zijn dit de enige geldige bronnen van informatie:
 
-* De [modulefiche](http://www.avondschool.be/sites/default/files/C2%20Netwerkbeheer%202.pdf)
 * Deze studiewijzer
-* Aankondigingen en documenten op Chamilo, onder de cursus [Netwerkbeheer 2 TV: Linux (2017-2018)](https://chamilo.avondschool.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=1535) (cursuscode 5520VABE1718)
+* Aankondigingen en documenten op Chamilo, onder de cursus [GRDU-INF](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=36670)
 
-Vragen stellen over de leerstof of over de organisatie van de cursus kan tijdens de contactmomenten, op het [Chamilo-forum](https://chamilo.avondschool.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=1535&tool=Forum&browser=List&tool_action=Viewer&display_action=ForumViewer&publication=74028), of via e-mail. Algemeen worden cursisten aangespoord om vragen te stellen via het forum, zodat iedereen het antwoord kan zien. Jammer genoeg krijgen de lectoren geen melding als er nieuwe berichten gepost worden. Het is dus nuttig om een seintje te geven via e-mail als een antwoord uitblijft. Sorry voor dit ongemak.
+Vragen stellen over de leerstof of over de organisatie van de cursus kan tijdens de contactmomenten, op het [Chamilo-forum](https://chamilo.hogent.be/index.php?go=CourseViewer&application=Chamilo%5CApplication%5CWeblcms&course=36670&tool=Forum&browser=List&tool_action=Viewer&display_action=ForumViewer&publication=1501423), of via e-mail. Algemeen worden cursisten aangespoord om vragen te stellen via het forum, zodat iedereen het antwoord kan zien. Jammer genoeg krijgen de lectoren geen melding als er nieuwe berichten gepost worden. Het is dus nuttig om een seintje te geven via e-mail als een antwoord uitblijft. Sorry voor dit ongemak.
 
 Indien er na raadplegen van deze informatie toch nog twijfel of onduidelijkheden blijven bestaan over gelijk welk aspect van deze cursus, neem dan zo snel mogelijk contact op met je lector, hetzij tijdens de contactmomenten, hetzij via e-mail. Indien nuttig of nodig wordt het antwoord als aankondiging op Chamilo doorgegeven aan alle cursisten.
 
