@@ -155,4 +155,4 @@ Deze werken zijn niet verplicht en zijn ook geen onderdeel van de expliciet te k
 - Tom Limoncelli, et al. 2007. *The Practice of System and Network Administration*, Second Edition. Addison-Wesley Professional. <http://everythingsysadmin.com/books.html>
 - Tom Limoncelli, et al. 2014. *The Practice of Cloud System Administration: Designing and Operating Large Distributed Systems, Volume 2*. Addison-Wesley Professional. <http://the-cloud-book.com/>
 
-Deze opleiding werd opgesteld door Bert Van Vreckem
+Deze opleiding werd opgesteld door Bert Van Vreckem.
