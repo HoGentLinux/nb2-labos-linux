@@ -1,6 +1,6 @@
 # Studiewijzer Netwerkbeheer 2 - Linux (2019-2020)
 
-Deze studiewijzer bevat een toelichting van de organisatie van de module Netwerkbeheer 2, onderdeel Linux van de HBO5-opleiding Informatica (optie Netwerkbeheer) voor academiejaar 2017-2018. Het onderdeel Linux wordt gegeven door:
+Deze studiewijzer bevat een toelichting van de organisatie van de module Netwerkbeheer 2, onderdeel Linux van de HBO5-opleiding Informatica (optie Netwerkbeheer) voor academiejaar 2019-2020. Het onderdeel Linux wordt gegeven door:
 
 - Frédéric Van Walle <mailto:frederic.vanwalle@hogent.be> (Tweede semester)
 
