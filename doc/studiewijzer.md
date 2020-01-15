@@ -33,7 +33,7 @@ Aan de hand van een reeks **labo-taken** verdiepen we ons in het opzetten van ne
 
 ## Aanwezigheid
 
-Elke les worden er -conform de regels van het CVO- aanwezigheden opgenomen. Aanwezigheid is echter niet verplicht, tenzij voor cursisten die genieten van betaald educatief verlof. Een afwezigheid wettigen kan enkel via het cursistensecretariaat. Laat dit tijdig weten aan de lector (en toon de wettiging ook aan) zodat dit correct kan ingevuld worden op de aanwezigheidslijst.
+Elke les worden er -conform de regels van het HoGent- aanwezigheden opgenomen. Aanwezigheid is echter niet verplicht, tenzij voor cursisten die genieten van betaald educatief verlof. Een afwezigheid wettigen kan enkel via het cursistensecretariaat. Laat dit tijdig weten aan de lector (en toon de wettiging ook aan) zodat dit correct kan ingevuld worden op de aanwezigheidslijst.
 
 Ondanks het feit dat aanwezigheid niet verplicht is, dien je wel de labo's (zie verder) te maken tijdens het semester en je code in te dienen. Ook is het verplicht om het resultaat te demonstreren aan de lector tijdens de lesmomenten of aan de hand van een screencast.
 
