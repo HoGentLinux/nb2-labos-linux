@@ -64,7 +64,7 @@ We gaan de volledige schriftelijke neerslag van de labo-taken bijhouden in een *
 3. Maak lokaal in een directory die je voorbehoudt voor al wat met deze cursus te maken heeft een kloon van je repository. Dat kan via de groene knop rechts met "Clone or Download". Kopieer daar de "URL" naar je repository. Kies "Use SSH". In Git Bash ga je naar de directory waarbinnen je al je materiaal in verband met deze cursus wil bijhouden en voert volgend commando uit:
 
     ```
-    $ git clone --config core.autocrlf=input git@github.org:cvopantarhei/nb2linux-GEBRUIKERSNAAM.git
+    $ git clone --config core.autocrlf=input git@github.org:cvopantarhei/nb2linux2020-GEBRUIKERSNAAM.git
     ```
 
     Je kan de naam van de lokale directory wijzigen en verplaatsen zonder de link naar Github kwijt te spelen. Dit is (een deel van) de resulterende directorystructuur:
